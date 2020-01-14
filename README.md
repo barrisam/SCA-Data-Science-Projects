@@ -7,3 +7,5 @@ This repo is for SCA data science path
 https://github.com/Ncheya/Data-Science-SCA-path-projects.git Jewel 
 
 https://github.com/MzSusann/Data-science-SCA-path-projects.git Chinwee
+
+https://github.com/mhizGlowreeyah/Data-Science-SCA-path-projects.git Glowreeyah
